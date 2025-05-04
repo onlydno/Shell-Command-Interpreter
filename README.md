@@ -36,14 +36,31 @@ This project was created to apply the following concepts from the Operating Syst
 ## 📸 Screenshots of the Output and Code
 
 📷 **Terminal Output**
+
+
 ![image](https://github.com/user-attachments/assets/67361f97-f72b-4a64-bce3-cf69845e82d8)
+
+
 ![image](https://github.com/user-attachments/assets/76e171f7-d60c-4914-aa2e-4646265331a1)
+
+
 ![image](https://github.com/user-attachments/assets/24542a3c-944a-46a7-bc83-6361dd85f2ba)
 
+
+
 📄 **Source Code Snapshots**
+
+
 ![image](https://github.com/user-attachments/assets/4126953b-ce87-4fed-89fc-0d6c34ca6dce)
+
+
+
 ![image](https://github.com/user-attachments/assets/13638015-c48c-4a78-befd-0b7deaaff668)
+
+
 ![image](https://github.com/user-attachments/assets/9a25e119-cc69-4448-8ec0-83862e989215)
+
+
 
 ---
 
